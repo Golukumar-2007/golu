@@ -1,0 +1,23 @@
+# Issue around the world
+
+1) An app that can help a person suffering from a network issue.
+
+2) An app that helps to reduce addiction in children like:
+    
+      1. Block an app interface for a particular time, at which students can study with a focus.
+
+3) An AI app that talks with children as his/her usual friend.
+
+4) An app that can locate a person anywhere in the world and help them find their position.
+
+5) AI app without any loopholes which help a user to protect their privacy & data.
+
+6) App which helps users to create/code an application. (especially for coders)
+
+7) An app that shows an alert message while the user opens a phishing link. 
+
+8) An app that can identify any providing image within a complex image. like a person in a crowd or a public place.
+ 
+9) Ai app which can write thousands of lines of code within a second.
+
+10)
